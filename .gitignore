@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary and cache files
+.summary_cache/
+*.tmp
+*.log
+
+# Generated deliverables
+*.docx
+temp_*.json
+test_*.docx
